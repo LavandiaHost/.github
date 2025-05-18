@@ -39,7 +39,7 @@ Notre identité visuelle est tout en violet et rose, reflétant créativité et 
 
 Suivez-nous sur les réseaux pour ne rien manquer :  
 - 🐦 Twitter : [@LavandiaHost](https://twitter.com/LavandiaHost)  
-- 💬 Discord : [Rejoignez notre serveur](https://discord.gg/votre-lien)  
+- 💬 Discord : [Rejoignez notre serveur](https://discord.gg/PUQQdGgC)  
 - 👩‍💻 GitHub : [LavandiaHost](https://github.com/LavandiaHost)  
 
 ---
