@@ -46,7 +46,7 @@ Suivez-nous sur les réseaux pour ne rien manquer :
 
 ## 📂 Organisation GitHub
 
-Nos projets open-source :  
+Nos outils open-source :  
 
 - 📦 **uptime-kuma** — Monitoring en temps réel  
 - 🔧 **panel** — Interface web personnalisée  
